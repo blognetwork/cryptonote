@@ -1,0 +1,13 @@
+{
+    "algorithm": "CryptoNight Light",
+    "coin": "BLOG",
+    "forkedFrom": "trtl-turtlecoin",
+    "name": "BlogCoin",
+    "startDate": "2019-06-16"
+    "links": {
+        "discord": "https://discord.gg/4huZQF9",
+        "repo": "https://github.com/blognetwork/blogcoin",
+        "telegram": "https://t.me/blogcoin_community",
+        "website": "https://blogcoin.cf"
+    }
+}
